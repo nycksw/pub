@@ -11,3 +11,4 @@ git pull
 cp -Rv docs/* ./
 git add .
 git commit -a -m "Mirror update $(date +%Y%m%d)"
+git push
