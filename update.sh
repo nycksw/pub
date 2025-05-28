@@ -1,9 +1,12 @@
+#!/usr/bin/env bash
+#
 set -o errexit
 
-test -f docs/indexx.md || (
+if [[ ! -f "docs/index.md" ]]; then
   echo "Missing files in docs/, check symlink."
-  exit
-)
+  exit 1
+fi
+
 git pull
 cp -Rv docs/* ./
 git add .
