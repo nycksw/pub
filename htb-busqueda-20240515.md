@@ -7,7 +7,7 @@ names:
 os: Linux
 revisit: true
 ---
-# HackTheBox: [Busqueda](https://app.hackthebox.com/machines/Busqueda)
+# HTB: [Busqueda](https://app.hackthebox.com/machines/Busqueda)
 
 > [!tip]- Summary with Spoilers
 > - This machine was running a vulnerable version of the [Searchor](https://github.com/ArjunSharda/Searchor) framework, which I exploited to achieve RCE as the `svc` user.

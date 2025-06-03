@@ -3,7 +3,7 @@ tags:
   - hack
   - windows
 ---
-# HackTheBox: [Arctic](https://app.hackthebox.com/machines/Arctic)
+# HTB: [Arctic](https://app.hackthebox.com/machines/Arctic)
 
 > [!tip]- Summary with Spoilers
 > - **ColdFusion File Upload RCE**: I identified an open ColdFusion service on port 8500 and uploaded a malicious JSP file, which gave me a reverse shell as the `arctic\tolis` user.

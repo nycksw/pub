@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [SwagShop](https://app.hackthebox.com/machines/SwagShop)
+# HTB: [SwagShop](https://app.hackthebox.com/machines/SwagShop)
 
 > [!tip]- Spoiler Summary
 > This machine is hosting a web commerce site with an SQLi vulnerability that allows an attacker to add an admin-level user, which enables an RCE exploit. Privilege escalation is trivial with `vi`.

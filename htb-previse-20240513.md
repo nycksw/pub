@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Previse](https://app.hackthebox.com/machines/Previse)
+# HTB: [Previse](https://app.hackthebox.com/machines/Previse)
 
 > [!tip]- Summary with Spoilers
 > This Linux machine has a simple PHP website with an EAR vulnerability. It's possible to create a login user via a `POST` without actually being authenticated. There's also an unsanitized input in the `logs.php` file that allows a command injection, which can be used to establish a foothold as `www-data`. From there, the admin user's hash is recoverable via MariaDB, and it's crackable. As the admin user, a script runnable via Sudo can be abused for PE.

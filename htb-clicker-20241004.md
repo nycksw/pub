@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Clicker](https://app.hackthebox.com/machines/Clicker)
+# HTB: [Clicker](https://app.hackthebox.com/machines/Clicker)
 
 > [!tip]- Summary with Spoilers  
 > - This machine exposed an unauthenticated NFS share containing a ZIP file with the website’s source code.  

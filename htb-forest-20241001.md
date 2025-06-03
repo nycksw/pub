@@ -3,7 +3,7 @@ tags:
   - hack
   - windows
 ---
-# HackTheBox: [Forest](https://app.hackthebox.com/machines/Forest)
+# HTB: [Forest](https://app.hackthebox.com/machines/Forest)
 
 > [!tip]- Summary with Spoilers
 > - This Active Directory environment allowed enumeration of users via SMB and `ldapsearch`, revealing an account vulnerable to [ASREPRoasting](https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/asreproast).

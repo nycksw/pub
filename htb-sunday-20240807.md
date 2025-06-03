@@ -2,7 +2,7 @@
 tags:
   - hack
 ---
-# HackTheBox: [Sunday](https://app.hackthebox.com/machines/Sunday)
+# HTB: [Sunday](https://app.hackthebox.com/machines/Sunday)
 
 > [!tip]- Spoiler Summary
 > This Solaris box is running `fingerd` which allows an attacker to enumerate users. One of the users has a trivially guessable password. With a foothold, the password hash for another user is readable and crackable. That user has Sudo privileges for `wget` which is easily escapable.

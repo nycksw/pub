@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [WifineticTwo](https://app.hackthebox.com/machines/WifineticTwo)
+# HTB: [WifineticTwo](https://app.hackthebox.com/machines/WifineticTwo)
 
 ## Services
 

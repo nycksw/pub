@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Sightless](https://app.hackthebox.com/machines/Sightless)
+# HTB: [Sightless](https://app.hackthebox.com/machines/Sightless)
 
 Sightless simulates a webhost using SQLPad and Froxlor. An initial RCE allows access inside of a Docker container. Thanks to password re-use, a hash discovered inside the container allows access to the system hosting the container. From there, it's an exercise in exploiting a debugging exploit in the `chromedriver` headless configuration used for Selenium web-testing, and then a flaw in Froxlor allows full root access.
 

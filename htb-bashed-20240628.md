@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Bashed](https://app.hackthebox.com/machines/Bashed)
+# HTB: [Bashed](https://app.hackthebox.com/machines/Bashed)
 
 > [!tip]- Summary with Spoilers
 > - I discovered a hidden PHP script called `phpbash.php`, allowing me to execute commands as `www-data`.

@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Headless](https://app.hackthebox.com/machines/Headless)
+# HTB: [Headless](https://app.hackthebox.com/machines/Headless)
 
 > [!tip]- Summary with Spoilers
 > - This Linux machine included an XSS vulnerability that enabled RCE, providing initial access.

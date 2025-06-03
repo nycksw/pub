@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [MonitorsThree](https://app.hackthebox.com/machines/MonitorsThree)
+# HTB: [MonitorsThree](https://app.hackthebox.com/machines/MonitorsThree)
 
 > [!tip]- Spoiler Summary
 > The machine featured a Cacti monitoring system vulnerable to authenticated RCE. Subdomain discovery revealed `cacti.monitorsthree.htb`, and SQL Injection at `forgot_password.php` exposed admin credentials. Using `admin:greencacti2001`, I leveraged an XML signature vulnerability to upload a malicious PHP file, achieving remote code execution. Privilege escalation was accomplished by exposing an internal Duplicati service, extracting the server passphrase, and leveraging the Duplicati web interface to back up and restore sensitive files, ultimately gaining root access.

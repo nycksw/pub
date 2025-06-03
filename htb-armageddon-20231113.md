@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Armageddon](https://app.hackthebox.com/machines/Armageddon)
+# HTB: [Armageddon](https://app.hackthebox.com/machines/Armageddon)
 
 > [!tip]- Summary with Spoilers
 > - This machine was running Drupal 7.56 with the `Drupalgeddon` vulnerability, which I used to gain RCE as the `apache` user.

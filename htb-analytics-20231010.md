@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Analytics](https://app.hackthebox.com/machines/Analytics)
+# HTB: [Analytics](https://app.hackthebox.com/machines/Analytics)
 
 > [!tip]- Summary with Spoilers
 > 1. **Metabase Pre-Auth RCE (CVE-2023-38646)**

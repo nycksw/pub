@@ -3,7 +3,7 @@ tags:
   - hack
   - windows
 ---
-# HackTheBox: [Servmon](https://app.hackthebox.com/machines/Servmon)
+# HTB: [Servmon](https://app.hackthebox.com/machines/Servmon)
 
 These are my own lightly-edited notes, and not necessarily a detailed walk-through.
 

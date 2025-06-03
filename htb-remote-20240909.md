@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Remote](https://app.hackthebox.com/machines/Remote)
+# HTB: [Remote](https://app.hackthebox.com/machines/Remote)
 
 These are my own lightly-edited notes, and not necessarily a detailed walk-through.
 

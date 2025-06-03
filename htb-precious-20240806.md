@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Precious](https://app.hackthebox.com/machines/Precious)
+# HTB: [Precious](https://app.hackthebox.com/machines/Precious)
 
 > [!tip]- Spoiler Summary
 > This target is running a simple web app with a vulnerable version of `pdfkit`, which allows for a foothold. Lateral movement is possible via leaked credentials and password reuse. Privilege escalation is possible by exploiting Ruby's YAML library.

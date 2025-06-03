@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Jarvis](https://app.hackthebox.com/machines/Jarvis)
+# HTB: [Jarvis](https://app.hackthebox.com/machines/Jarvis)
 
 ## Services
 

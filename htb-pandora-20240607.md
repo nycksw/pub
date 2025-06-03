@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Pandora](https://app.hackthebox.com/machines/Pandora)
+# HTB: [Pandora](https://app.hackthebox.com/machines/Pandora)
 
 > [!tip]- Spoiler Summary
 > This Linux-based challenge leaks login info via SNMP. An exploit in Pandora FMS allows code execution as the intended target admin user. For PE, a setuid binary calls `tar` with a relative path, which can be abused to run arbitrary code as `root`.

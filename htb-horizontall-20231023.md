@@ -4,7 +4,7 @@ tags:
   - linux
 ---
 
-# HackTheBox: [Horizontall](https://app.hackthebox.com/machines/Horizontall)
+# HTB: [Horizontall](https://app.hackthebox.com/machines/Horizontall)
 
 > [!tip]- Summary with Spoilers
 > - This machine exposed a web application running on `Horizontall` that allowed enumeration of an internal API using subdomain routing.

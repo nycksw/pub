@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Networked](https://app.hackthebox.com/machines/Networked)
+# HTB: [Networked](https://app.hackthebox.com/machines/Networked)
 
 These are my own lightly-edited notes, and not necessarily a detailed walk-through.
 

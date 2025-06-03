@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Shocker](https://app.hackthebox.com/machines/Shocker)
+# HTB: [Shocker](https://app.hackthebox.com/machines/Shocker)
 
 > [!tip]- Summary with Spoilers
 > - This Linux machine was vulnerable to [Shellshock](https://en.wikipedia.org/wiki/Shellshock_(software_bug)), allowing RCE via the `user.sh` CGI script.

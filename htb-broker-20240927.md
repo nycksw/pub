@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Broker](https://app.hackthebox.com/machines/Broker)
+# HTB: [Broker](https://app.hackthebox.com/machines/Broker)
 
 > [!tip]- Summary with Spoilers
 > This box is running a vulnerable version of [Apache ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ). After the foothold, `nginx` can be abused via `sudo` to run a malicious web server that accepts `PUT` requests to the root filesystem, which can be used to place an SSH key for shell access as `root`.

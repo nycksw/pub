@@ -4,7 +4,7 @@ tags:
   - linux
 ---
 
-# HackTheBox: [Devvortex](https://app.hackthebox.com/machines/Devvortex)
+# HTB: [Devvortex](https://app.hackthebox.com/machines/Devvortex)
 
 > [!tip] Summary with Spoilers
 > This was an exercise to use an information leak to gain a foothold on a common CMS, which can then be leveraged into an interactive shell, database access to retrieve password hashes, an easy-to-brute password for the admin's shell account, and then a simple privilege escalation to root.

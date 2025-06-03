@@ -2,7 +2,7 @@
 tags:
   - hack
 ---
-# HTB Ranking and Points
+# HTB: Ranking and Points
 
 ## Points
 

@@ -4,7 +4,7 @@ tags:
   - linux
 ---
 
-# HackTheBox: [Bizness](https://app.hackthebox.com/machines/Bizness)
+# HTB: [Bizness](https://app.hackthebox.com/machines/Bizness)
 
 > [!tip]- Summary with Spoilers
 > This Linux machine is running an exploitable version of [Apache OFBiz](https://ofbiz.apache.org/) with a RCE vulnerability, but there were two RCE rabbit-holes along the way. An [Apache Derby](https://db.apache.org/derby/) database offers a SHA-1 hash, which is crackable only after some research to get it in the correct format for `hashcat`/`john`. PE was otherwise quite easy thanks to the cracked hash and password reuse.

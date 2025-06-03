@@ -4,7 +4,7 @@ tags:
   - linux
 ---
 
-# HackTheBox: [Codify](https://app.hackthebox.com/machines/Codify)
+# HTB: [Codify](https://app.hackthebox.com/machines/Codify)
 
 > [!tip]- Summary with Spoilers
 > - This machine was running a vulnerable version of [vm2](https://github.com/patriksimek/vm2), allowing me to escape the JavaScript sandbox and achieve RCE as the `svc` user.

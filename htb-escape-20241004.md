@@ -3,7 +3,7 @@ tags:
   - hack
   - windows
 ---
-# HackTheBox: [Escape](https://app.hackthebox.com/machines/Escape)
+# HTB: [Escape](https://app.hackthebox.com/machines/Escape)
 
 > [!tip]- Spoiler Summary
 > This Active Directory box centered around a misconfigured SQL Server. Initial enumeration revealed an accessible share containing a document that hinted at SQL Server credentials, allowing me to log in as `publicuser`. Using `xp_dirtree`, I captured the NTLMv2 hash for `sql_svc`, which cracked to reveal credentials reused for SMB and WinRM. Access as `sql_svc` exposed SQL Server logs that leaked another set of credentials, ultimately allowing escalation to retrieve the flag.

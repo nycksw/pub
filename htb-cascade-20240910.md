@@ -3,7 +3,7 @@ tags:
   - hack
   - windows
 ---
-# HackTheBox: [Cascade](https://app.hackthebox.com/machines/Cascade)
+# HTB: [Cascade](https://app.hackthebox.com/machines/Cascade)
 
 > [!tip]- Summary with Spoilers
 > - **Initial Enumeration and Discovery**: The box hosts a Flask web application with a contact form vulnerable to `XSS`. Using crafted payloads, this was escalated to a SSTI vulnerability for RCE.

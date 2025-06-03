@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Editorial](https://app.hackthebox.com/machines/Editorial)
+# HTB: [Editorial](https://app.hackthebox.com/machines/Editorial)
 
 ## Summary
 

@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Secret](https://app.hackthebox.com/machines/Secret)
+# HTB: [Secret](https://app.hackthebox.com/machines/Secret)
 
 > [!tip]- **Spoiler summary**
 > - Exposed **files.zip** → Git history leak → `.env` with JWT signing key

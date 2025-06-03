@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Surveillance](https://app.hackthebox.com/machines/Surveillance)
+# HTB: [Surveillance](https://app.hackthebox.com/machines/Surveillance)
 
 > [!tip]- Summary with Spoilers
 > This Linux machine is running an outdated version of Craft CMS with an unauthenticated RCE vulnerability.

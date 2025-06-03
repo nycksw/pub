@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [OpenAdmin](https://app.hackthebox.com/machines/OpenAdmin)
+# HTB: [OpenAdmin](https://app.hackthebox.com/machines/OpenAdmin)
 
 > [!tip]- Summary with Spoilers
 > - This machine included an exposed [OpenNetAdmin](https://github.com/OpenNetAdmin/ona) installation, which I exploited using a command injection vulnerability to gain RCE as the `www-data` user.

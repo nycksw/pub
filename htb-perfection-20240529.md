@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Perfection](https://app.hackthebox.com/machines/Perfection)
+# HTB: [Perfection](https://app.hackthebox.com/machines/Perfection)
 
 > [!tip]- Summary with Spoilers
 > This Linux-based Ruby web app presents a command injection opportunity for RCE. Achieving PE is an exercise in using `hashcat` with a customized ruleset.

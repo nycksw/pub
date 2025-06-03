@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Topology](https://app.hackthebox.com/machines/Topology)
+# HTB: [Topology](https://app.hackthebox.com/machines/Topology)
 
 ## Enumerate
 

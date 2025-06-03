@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Flight](https://app.hackthebox.com/machines/Flight)
+# HTB: [Flight](https://app.hackthebox.com/machines/Flight)
 
 These are my own lightly-edited notes, and not necessarily a detailed walk-through.
 

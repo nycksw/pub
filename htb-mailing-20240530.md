@@ -3,7 +3,7 @@ tags:
   - hack
   - windows
 ---
-# HackTheBox: [Mailing](https://app.hackthebox.com/machines/Mailing)
+# HTB: [Mailing](https://app.hackthebox.com/machines/Mailing)
 
 > [!tip]- Spoiler Summary
 > This Windows machine represents a company's email server, with several related services running on it. Its info-site has an LFI vulnerability which reveals a password for one of the accounts. This allows sending a phishing email to another user who is running a vulnerable version of Outlook, for RCE. PE is possible thanks to a bug in Outlook and the ability to get a privileged user to open it.

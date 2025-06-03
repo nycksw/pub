@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Blurry](https://app.hackthebox.com/machines/blurry)
+# HTB: [Blurry](https://app.hackthebox.com/machines/blurry)
 
 > [!tip]- Summary with Spoilers
 > - This machine was running a vulnerable version of the ClearML experimentation framework, which I exploited to gain RCE as the `jippity` user.

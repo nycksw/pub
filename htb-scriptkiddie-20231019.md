@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [ScriptKiddie](https://app.hackthebox.com/machines/ScriptKiddie)
+# HTB: [ScriptKiddie](https://app.hackthebox.com/machines/ScriptKiddie)
 
 > [!tip]- Summary with Spoilers
 > - This machine exposed a Metasploit installation, which I used to exploit a Git-related vulnerability for initial access as `kid`.

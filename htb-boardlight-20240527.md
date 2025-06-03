@@ -9,7 +9,7 @@ flag_user: false
 flag_system: false
 revisit: true
 ---
-# HackTheBox: [BoardLight](https://app.hackthebox.com/machines/BoardLight)
+# HTB: [BoardLight](https://app.hackthebox.com/machines/BoardLight)
 
 > [!tip]- Spoiler Summary
 > This Linux box is running a vulnerable version of Dolibarr CRM which can be exploited for Authenticated RCE; the login is easily guessable. Credential hunting uncovers the MariaDB password for the CRM, and while there are no useful hashes available there the password is also the same as for the admin user, `larissa`. PE is possible via a bug in `enlightenment_sys`, a SUID binary.

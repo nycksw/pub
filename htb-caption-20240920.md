@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Caption](https://app.hackthebox.com/machines/Caption)
+# HTB: [Caption](https://app.hackthebox.com/machines/Caption)
 
 > [!tip]- Spoiler Summary
 > This machine leveraged GitBucket with default credentials (`root:root`) to access sensitive configurations and bypass path restrictions. By exploiting an SQL injection in the GitBucket interface, I achieved remote code execution and retrieved an SSH private key for the user `margo`. Privilege escalation involved exploiting a log processing service via a Thrift API, allowing me to escalate to root by manipulating log entries to execute arbitrary commands.

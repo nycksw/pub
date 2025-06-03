@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [UpDown](https://app.hackthebox.com/machines/UpDown)
+# HTB: [UpDown](https://app.hackthebox.com/machines/UpDown)
 
 > [!tip]- Summary with Spoilers
 > A website leaks source code via an exposed Git repository. A development version of the site is accessible using secrets discovered in the source code. A file-upload attack is possible which bypasses the file-extension blacklist for PHP code execution, albeit via a different function than `system()`. An insecure Python 2.7 script allows code `eval()` for pivoting to the `developer` user. Finally, `sudo` access to the old `easy_install` Python 2.7 module grants a shell as `root`.

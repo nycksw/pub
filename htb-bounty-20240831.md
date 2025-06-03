@@ -3,7 +3,7 @@ tags:
   - hack
   - windows
 ---
-# HackTheBox: [Bounty](https://app.hackthebox.com/machines/Bounty)
+# HTB: [Bounty](https://app.hackthebox.com/machines/Bounty)
 
 These are my notes, and not necessarily a detailed walk-through.
 

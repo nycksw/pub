@@ -3,7 +3,7 @@ tags:
   - hack
   - windows
 ---
-# HackTheBox: [Netmon](https://app.hackthebox.com/machines/Netmon)
+# HTB: [Netmon](https://app.hackthebox.com/machines/Netmon)
 
 ## Services
 

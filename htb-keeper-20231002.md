@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Keeper](https://app.hackthebox.com/machines/Keeper)
+# HTB: [Keeper](https://app.hackthebox.com/machines/Keeper)
 
 ## Enumeration
 

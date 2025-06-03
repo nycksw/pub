@@ -4,7 +4,7 @@ tags:
   - linux
 ---
 
-# HackTheBox: [CozyHosting](https://app.hackthebox.com/machines/CozyHosting)
+# HTB: [CozyHosting](https://app.hackthebox.com/machines/CozyHosting)
 
 ## Enumeration
 

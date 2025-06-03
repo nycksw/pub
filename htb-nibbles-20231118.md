@@ -4,7 +4,7 @@ tags:
   - linux
 ---
 
-# HackTheBox: [Nibbles](https://app.hackthebox.com/machines/Nibbles)
+# HTB: [Nibbles](https://app.hackthebox.com/machines/Nibbles)
 
 > [!tip]- Summary with Spoilers
 > - This machine was running Nibbleblog version `v4.0.3`, which was vulnerable to an authenticated file upload vulnerability (`CVE-2015-6967`).

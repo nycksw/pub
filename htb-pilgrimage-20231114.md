@@ -4,7 +4,7 @@ tags:
   - linux
 ---
 
-# HackTheBox: [Pilgrimage](http://app.hackthebox.com/machines/Pilgrimage)
+# HTB: [Pilgrimage](http://app.hackthebox.com/machines/Pilgrimage)
 
 ## Enumerate
 

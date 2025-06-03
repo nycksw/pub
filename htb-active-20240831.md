@@ -3,7 +3,7 @@ tags:
   - hack
   - windows
 ---
-# HackTheBox: [Active](https://app.hackthebox.com/machines/Active)
+# HTB: [Active](https://app.hackthebox.com/machines/Active)
 
 > [!tip]- Summary with Spoilers
 > 1. **Group Policy Preferences (GPP) `cpassword` exploit**

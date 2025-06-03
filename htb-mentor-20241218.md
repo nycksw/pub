@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [Mentor](https://app.hackthebox.com/machines/Mentor)
+# HTB: [Mentor](https://app.hackthebox.com/machines/Mentor)
 
 > [!tip]- Summary with Spoilers
 > This Linux machine is running a web application with an exploitable API endpoint vulnerable to command injection, but it required careful enumeration to find it. An SNMP service revealed sensitive information, including a process string that leaked credentials. Privilege escalation was straightforward, using the credentials discovered to SSH into the host and leveraging password reuse to escalate to root.

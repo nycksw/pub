@@ -4,7 +4,7 @@ tags:
   - linux
 ---
 
-# HackTheBox: [Blocky](https://app.hackthebox.com/machines/Blocky)
+# HTB: [Blocky](https://app.hackthebox.com/machines/Blocky)
 
 ## Enumeration
 

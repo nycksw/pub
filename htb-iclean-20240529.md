@@ -3,7 +3,7 @@ tags:
   - hack
   - linux
 ---
-# HackTheBox: [IClean](https://app.hackthebox.com/machines/IClean)
+# HTB: [IClean](https://app.hackthebox.com/machines/IClean)
 
 > [!tip]- Spoiler Summary
 > This Linux box is running a Flask web app with both a XSS vulnerability leading to a SSTI vulnerability, and the latter may be used for RCE. PE is accomplished by using Sudo and `qpdf` to read otherwise protected files, `/root/.ssh/id_rsa` in this case but `/etc/shadow` is another potential vector.

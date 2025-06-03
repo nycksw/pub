@@ -3,7 +3,7 @@ tags:
   - hack
   - windows
 ---
-# HackTheBox: [Support](https://app.hackthebox.com/machines/Support)
+# HTB: [Support](https://app.hackthebox.com/machines/Support)
 
 These are my own lightly-edited notes, and not necessarily a detailed walk-through.
 

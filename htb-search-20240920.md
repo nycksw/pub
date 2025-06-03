@@ -3,7 +3,7 @@ tags:
   - hack
   - windows
 ---
-# HackTheBox: [Search](https://app.hackthebox.com/machines/Search)
+# HTB: [Search](https://app.hackthebox.com/machines/Search)
 
 > [!tip]- Summary with Spoilers
 > This machine requires some unexpected sleuthing of its web site to discover credentials for a foothold. You'll need to understand AD enumeration (BloodHound is very helpful) as well as iterative enumeration to find the necessary credentials.
