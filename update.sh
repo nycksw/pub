@@ -8,6 +8,8 @@ if [[ ! -f "docs/index.md" ]]; then
 fi
 
 git pull
+rm -f _/*
+rm -f *[!README].md
 cp -Rv docs/* ./
 git add .
 git commit -a -m "Mirror update $(date +%Y%m%d)"
