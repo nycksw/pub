@@ -7,16 +7,16 @@ tags:
 
 > [!tip]- Summary with Spoilers
 > 1. **Group Policy Preferences (GPP) `cpassword` exploit**
->   I discovered a `cpassword` attribute in a `Groups.xml` file on the Replication share. Because the AES key for GPP was leaked, I could reverse this field, which revealed valid domain credentials.
+> I discovered a `cpassword` attribute in a `Groups.xml` file on the Replication share. Because the AES key for GPP was leaked, I could reverse this field, which revealed valid domain credentials.
 >
->2. **Kerberoasting**
->   With those credentials in hand, I used `GetUserSPNs` to request service tickets for privileged accounts, specifically Administrator. I then cracked the TGS hashes offline with hashcat, recovering the Administrator’s plaintext password.
+> 2. **Kerberoasting**
+> With those credentials in hand, I used `GetUserSPNs` to request service tickets for privileged accounts, specifically Administrator. I then cracked the TGS hashes offline with hashcat, recovering the Administrator’s plaintext password.
 >
->3. **Remote code execution**
->   Armed with the Administrator password, I used Impacket’s `psexec` to get an NT AUTHORITY\SYSTEM shell on the target (Windows Server 2008 R2). This granted me full administrative control over the system.
+> 3. **Remote code execution**
+> Armed with the Administrator password, I used Impacket’s `psexec` to get an NT AUTHORITY\SYSTEM shell on the target (Windows Server 2008 R2). This granted me full administrative control over the system.
 >
->4. **Dumping domain secrets**
->   Finally, I ran `secretsdump` to extract all hashed passwords and Kerberos keys (NTDS.dit and LSA secrets), achieving complete control over the domain.
+> 4. **Dumping domain secrets**
+> Finally, I ran `secretsdump` to extract all hashed passwords and Kerberos keys (NTDS.dit and LSA secrets), achieving complete control over the domain.
 
 ## Services
 

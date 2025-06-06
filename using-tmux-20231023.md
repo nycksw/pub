@@ -20,7 +20,7 @@ I do a lot of copying and pasting text between applications, and a lot of it com
 - I want my selections from the `tmux` buffer to go straight into my system clipboard, for pasting into other applications.
 - I want to trim whitespace from the ends of lines.
 
-Here's how I did it. Below are snippets from my `tmux.conf`.
+Here's how I did it. Below are snippets from my `tmux.conf`. (A [more recent version is also available](https://gist.github.com/nycksw/6d8af2a24ece01f880683638e4a68554).)
 
 Here I set `prefix-Escape` to enter the scroll buffer, and enable "vi keys".
 

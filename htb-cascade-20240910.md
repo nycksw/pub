@@ -349,7 +349,7 @@ sqlite> select * from Misc;
 sqlite>
 ```
 
-I want to decompile the binaries I found in the Audit share, so I can decrypt the password found in the `sqlite3` database. I'll use [ILSpy](using-ilspy-20240911.md) to do this.
+I want to decompile the binaries I found in the Audit share, so I can decrypt the password found in the `sqlite3` database. I'll use [ILSpy](using-ilspy-kali-20240911.md) to do this.
 
 ```console
 $ ./ICSharpCode.ILSpyCmd/bin/Debug/net8.0/ilspycmd ~/htb-cascade/CascCrypto.dll

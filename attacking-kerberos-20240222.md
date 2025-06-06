@@ -32,6 +32,6 @@ The purpose of the final phase is for the client and the application server to m
 
 ## Attack Vectors
 
-- [`kerbrute`](using-kerbrute-20240722.md)
+- [Using kerbrute for user enumeration](using-kerbrute-userenum-20240722.md)
 - [Impacket](https://github.com/fortra/impacket) `GetNPUsers.py`: Find users with preauthentication disabled.
 - [Impacket](https://github.com/fortra/impacket) `GetUserSPNs.py`: Get potentially crackable hashes for users with service principal names set.

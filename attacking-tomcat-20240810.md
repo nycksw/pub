@@ -38,3 +38,8 @@ Then, trigger the reverse shell:
 ```text
 $ curl http://target:8080/hax
 ```
+
+## Examples
+
+- [HackTheBox Jerry](htb-jerry-20240904.md) is a target using default credentials which can be used to upload a malicious WAR file for a foothold.
+- [HackTheBox Tabby](htb-tabby-20240809.md) demonstrates discovery of the `tomcat-users.xml` file (via [LFI](dvwa-exploiting-lfi-20240522.md)) which contains sensitive credentials which are used to access the `/manager/text/deploy` to deploy a malicious WAR for RCE.

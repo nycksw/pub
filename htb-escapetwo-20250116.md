@@ -71,6 +71,8 @@ Archive:  20250116102724_BloodHound.zip
   inflating: 20250116102724_ous.json
 ```
 
+![](_/htb-escapetwo-20250116-1.png)
+
 ```console
 PS C:\users\sql_svc> net user /dom
 
@@ -214,8 +216,6 @@ Certipy v4.8.2 - by Oliver Lyak (ly4k)
 Would you like to save the private key? (y/N)
 [-] Failed to request certificate
 ```
-
-![](_/ctf-escapetwo-20250116-1.png)
 
  Below I'm using [impacket](using-impacket-20250122.md) to abuse `WriteOwner` to take over the `ca_svc` account.
 

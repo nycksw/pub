@@ -3,11 +3,10 @@ tags:
   - hack
   - linux
 ---
-# Using `hashcat`
+# Using `hashcat` with GPUs
 
-## Using the GPU with `hashcat`
 
-### NVIDIA GeForce RTX 4070 Laptop (AD106M, 8 GiB)
+## NVIDIA GeForce RTX 4070 Laptop (AD106M, 8 GiB)
 
 Using CUDA gave me a performance boost of 6x for the SHA256 hash-rate.
 
@@ -201,7 +200,7 @@ Speed.#1.........:   117.5 kH/s (95.44ms) @ Accel:16 Loops:1024 Thr:512 Vec:1
 ...
 ```
 
-### AMD RX 6800
+## AMD RX 6800
 
 Raw notes:
 

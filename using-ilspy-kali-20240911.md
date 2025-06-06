@@ -3,8 +3,7 @@ tags:
   - hack
   - linux
 ---
-# Using ILSpy
-## Using ILSpy on Kali
+# Using ILSpy on Kali
 
 [ILSpy](https://github.com/icsharpcode/ILSpy) is a .NET decompiler.
 

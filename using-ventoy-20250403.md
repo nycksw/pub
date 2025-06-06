@@ -2,7 +2,6 @@
 tags:
   - windows
 ---
-
 # Using Ventoy for Windows Installers
 
 For making a bootable USB drive to install Windows, I use [Ventoy](https://www.ventoy.net/), which is a generic bootable shim that allows loading arbitrary ISOs. This sidesteps some of the trickier partitioning and filesystem quirks when creating Windows installation media.

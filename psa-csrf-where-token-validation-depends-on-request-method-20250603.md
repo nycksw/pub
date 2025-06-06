@@ -1,4 +1,4 @@
-# Lab: CSRF where Token Validation Depends on Request Method
+# PortSwigger: [CSRF where Token Validation Depends on Request Method](https://portswigger.net/web-security/csrf/bypassing-token-validation/lab-token-validation-depends-on-request-method)
 
 This is a valid POST request initiated by a logged-in user:
 
@@ -25,7 +25,7 @@ Te: trailers
 email=a%40a.a&csrf=hN3CPjmJwe9hZzbKBltxaO33SUqAWpZf
 ```
 
-This target validates the CSRF token when the request is via POST, but not for GET requests.
+The target validates the CSRF token when the request is via POST, but not for GET requests.
 
 This exploit changes the request type (via `method=`) and omits the CSRF token entirely:
 
@@ -39,5 +39,3 @@ This exploit changes the request type (via `method=`) and omits the CSRF token e
   document.forms[0].submit();
 </script>
 ```
-
-Reference: <https://portswigger.net/web-security/csrf/bypassing-token-validation/lab-token-validation-depends-on-request-method>

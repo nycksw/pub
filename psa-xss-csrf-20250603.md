@@ -1,6 +1,6 @@
-# Attacking XSS+CSRF
+# PortSwigger: [Attacking XSS+CSRF](https://portswigger.net/web-security/cross-site-scripting/exploiting/lab-perform-csrf)
 
-Example XSS payload (with errorc-checking for debugging) that grabs a CSRF token before submitting a POST request to the target:
+Here's a purposefully over-engineered XSS payload, with error-checking for debugging, that grabs a CSRF token before submitting a POST request to the target:
 
 ```text
 <script>
@@ -95,5 +95,3 @@ Error code table:
 - `ERROR_EMAIL_CHANGE_FAILED` -> `E3`
 - `ERROR_SCRIPT_EXCEPTION` -> `EX`
 - `EXPLOIT_FINISHED` -> `F`
-
-Reference: <https://portswigger.net/web-security/cross-site-scripting/exploiting/lab-perform-csrf>

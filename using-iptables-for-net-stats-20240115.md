@@ -2,9 +2,7 @@
 tags:
   - linux
 ---
-# Using `iptables`
-
-## Network Stats with `iptables`
+# Using `iptables` for Network Stats
 
 ```console
 root@penguin:~# iptables -Z INPUT
