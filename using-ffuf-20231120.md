@@ -1,7 +1,3 @@
----
-tags:
-  - hack
----
 # Using `ffuf`
 
 ## Brute-forcing Login Forms

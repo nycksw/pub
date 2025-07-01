@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - windows
 ---
 # HTB: [Mailing](https://app.hackthebox.com/machines/Mailing)

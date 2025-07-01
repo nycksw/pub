@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Headless](https://app.hackthebox.com/machines/Headless)

@@ -1,6 +1,6 @@
 ---
 tags:
-  - htb
+    - windows
 ---
 # HTB: [SolarLab](https://app.hackthebox.com/machines/SolarLab)
 

@@ -1,9 +1,7 @@
 ---
 tags:
-  - hack
   - linux
 ---
-
 # HTB: [Devvortex](https://app.hackthebox.com/machines/Devvortex)
 
 > [!tip] Summary with Spoilers

@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Armageddon](https://app.hackthebox.com/machines/Armageddon)

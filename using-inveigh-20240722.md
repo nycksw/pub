@@ -1,8 +1,3 @@
----
-tags:
-  - hack
-  - windows
----
 # Using Inveigh
 
 ## Using Inveigh to Capture Hashes

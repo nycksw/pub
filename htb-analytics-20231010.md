@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Analytics](https://app.hackthebox.com/machines/Analytics)

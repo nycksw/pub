@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [SwagShop](https://app.hackthebox.com/machines/SwagShop)

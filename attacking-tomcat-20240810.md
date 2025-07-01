@@ -1,7 +1,3 @@
----
-tags:
-  - hack
----
 # Attacking Tomcat
 
 Apache Tomcat is a Java-based web application stack that was very popular 20 years ago and is still used in legacy environments where applications have been built on Jakarta Server Pages (JSP), also known as JavaServer Pages. Tomcat is three components: Catalina, the servlet container, Coyote, its HTTP connector, and Jasper which is the core JSP engine. Tomcat is still under active development in 2024.

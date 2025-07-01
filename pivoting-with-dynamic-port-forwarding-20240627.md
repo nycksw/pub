@@ -1,9 +1,3 @@
----
-tags:
-  - hack
-  - linux
----
-
 # Pivoting with Dynamic Port Forwarding
 
 The OpenSSH client has a built-in SOCKS proxy for "dynamic port forwarding".

@@ -1,11 +1,6 @@
 ---
 tags:
-  - hack
   - linux
-names:
-  - busqueda
-os: Linux
-revisit: true
 ---
 # HTB: [Busqueda](https://app.hackthebox.com/machines/Busqueda)
 

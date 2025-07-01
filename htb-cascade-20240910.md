@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - windows
 ---
 # HTB: [Cascade](https://app.hackthebox.com/machines/Cascade)

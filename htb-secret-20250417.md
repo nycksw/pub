@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Secret](https://app.hackthebox.com/machines/Secret)

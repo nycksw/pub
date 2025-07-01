@@ -1,8 +1,3 @@
----
-tags:
-  - hack
----
-
 # Using SSTImap
 
 ```text

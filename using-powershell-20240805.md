@@ -1,8 +1,3 @@
----
-tags:
-  - windows
-  - hack
----
 # Using PowerShell
 
 Various snippets.

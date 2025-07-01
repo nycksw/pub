@@ -1,9 +1,3 @@
----
-tags:
-  - hack
-  - linux
----
-
 # Pivoting with SSH Port Forwarding
 
 Simple port forwarding with `nmap` uses the `-L` or `-R` flags:

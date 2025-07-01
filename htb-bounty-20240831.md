@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - windows
 ---
 # HTB: [Bounty](https://app.hackthebox.com/machines/Bounty)

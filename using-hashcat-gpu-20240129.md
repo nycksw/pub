@@ -1,10 +1,4 @@
----
-tags:
-  - hack
-  - linux
----
 # Using `hashcat` with GPUs
-
 
 ## NVIDIA GeForce RTX 4070 Laptop (AD106M, 8 GiB)
 

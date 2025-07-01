@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Pilgrimage](http://app.hackthebox.com/machines/Pilgrimage)

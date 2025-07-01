@@ -1,7 +1,3 @@
----
-tags:
-  - think
----
 # Knowing is Doing
 
 From [Knowing Is Doing, Not remembering](https://www.raptitude.com/2023/04/knowing-is-doing-not-remembering/):

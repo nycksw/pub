@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Networked](https://app.hackthebox.com/machines/Networked)

@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Mentor](https://app.hackthebox.com/machines/Mentor)

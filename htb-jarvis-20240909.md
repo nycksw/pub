@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Jarvis](https://app.hackthebox.com/machines/Jarvis)

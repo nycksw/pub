@@ -1,9 +1,7 @@
 ---
 tags:
-  - hack
   - linux
 ---
-
 # HTB: [Bizness](https://app.hackthebox.com/machines/Bizness)
 
 > [!tip]- Summary with Spoilers

@@ -1,4 +1,4 @@
-# PortSwigger: [CSRF Token Tied to Non-session Cookie](https://portswigger.net/web-security/csrf/bypassing-token-validation/lab-token-tied-to-non-session-cookie)
+# [CSRF: Token Tied to Non-session Cookie](https://portswigger.net/web-security/csrf/bypassing-token-validation/lab-token-tied-to-non-session-cookie)
 
 Some applications may validate CSRF values independently of session state.
 

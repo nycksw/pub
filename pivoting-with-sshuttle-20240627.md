@@ -1,9 +1,3 @@
----
-tags:
-  - hack
-  - linux
----
-
 # Pivoting with `sshuttle`
 
 From the man page:

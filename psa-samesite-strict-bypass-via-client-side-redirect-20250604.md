@@ -1,4 +1,4 @@
-# PortSwigger: [`SameSite=Strict` Bypass via Client-side Redirect](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-strict-bypass-via-client-side-redirect)
+# [`SameSite=Strict` Bypass via Client-side Redirect](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-strict-bypass-via-client-side-redirect)
 
 The target service sets a `SameSite=Strict` cookie:
 

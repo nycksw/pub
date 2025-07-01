@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - windows
 ---
 # HTB: [Arctic](https://app.hackthebox.com/machines/Arctic)

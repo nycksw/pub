@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Blurry](https://app.hackthebox.com/machines/blurry)

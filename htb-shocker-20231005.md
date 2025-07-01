@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Shocker](https://app.hackthebox.com/machines/Shocker)

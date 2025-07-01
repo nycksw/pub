@@ -1,7 +1,3 @@
----
-tags:
-  - linux
----
 # Using LUKS
 
 Configuring an external USB backup drive as a [LUKS](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup)-encrypted volume that auto-mounts after boot or when reconnected.

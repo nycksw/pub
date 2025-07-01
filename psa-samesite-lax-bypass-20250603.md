@@ -1,4 +1,4 @@
-# PortSwigger: [`SameSite=Lax` Bypass via Method Override](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-lax-bypass-via-method-override)
+# [`SameSite=Lax` Bypass via Method Override](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-lax-bypass-via-method-override)
 
 Modern browsers default to `SameSite=Lax` for cookies, making some [CSRF exploits](psa-csrf-token-tied-to-non-session-cookie-20250603.md) more difficult.
 

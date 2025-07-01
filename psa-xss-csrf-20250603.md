@@ -1,4 +1,4 @@
-# PortSwigger: [Attacking XSS+CSRF](https://portswigger.net/web-security/cross-site-scripting/exploiting/lab-perform-csrf)
+# [XSS+CSRF](https://portswigger.net/web-security/cross-site-scripting/exploiting/lab-perform-csrf)
 
 Here's a purposefully over-engineered XSS payload, with error-checking for debugging, that grabs a CSRF token before submitting a POST request to the target:
 

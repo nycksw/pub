@@ -1,12 +1,8 @@
----
-tags:
-  - hack
----
 # Using `impacket`
 
 ## Abusing `WriteOwner` with `owneredit.py`
 
-Here I'm using impacket to abuse `WriteOwner` to take over the `ca_svc` account.
+Here I'm using Impacket to abuse `WriteOwner` to take over the `ca_svc` account.
 
  First, I'll use `owneredit.py` to modify `OwnerSid` to the account I control:
 

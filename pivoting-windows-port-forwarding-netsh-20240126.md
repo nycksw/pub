@@ -1,8 +1,3 @@
----
-tags:
-  - hack
-  - windows
----
 # Windows Port Forwarding with Netsh
 
 ```console

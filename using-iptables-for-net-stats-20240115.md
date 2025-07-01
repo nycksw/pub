@@ -1,7 +1,3 @@
----
-tags:
-  - linux
----
 # Using `iptables` for Network Stats
 
 ```console

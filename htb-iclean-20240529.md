@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [IClean](https://app.hackthebox.com/machines/IClean)

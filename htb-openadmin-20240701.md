@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [OpenAdmin](https://app.hackthebox.com/machines/OpenAdmin)

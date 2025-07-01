@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [MonitorsThree](https://app.hackthebox.com/machines/MonitorsThree)
@@ -313,4 +312,3 @@ PA4EYA8sgHR2kAAAAUbWFyY3VzQG1vbml0b3JzdGhyZWUBAgMEBQYH
 ```
 
 Using the Duplicati interface, it's possible to backup and restore `/root/root.txt` to a readable location for the user `marcus`.
-

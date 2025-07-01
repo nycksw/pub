@@ -1,7 +1,3 @@
----
-tags:
-  - linux
----
 # UFW and Docker
 
 If you use `ufw`, be aware that Docker will open up ports using `iptables` in a way that will probably expose services you didn't intend to expose.

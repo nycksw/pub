@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Previse](https://app.hackthebox.com/machines/Previse)

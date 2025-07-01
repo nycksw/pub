@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [UpDown](https://app.hackthebox.com/machines/UpDown)

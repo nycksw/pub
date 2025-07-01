@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Editorial](https://app.hackthebox.com/machines/Editorial)

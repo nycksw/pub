@@ -1,7 +1,3 @@
----
-tags:
-  - hack
----
 # Attacking XSLT
 
 Injection for enumeration:

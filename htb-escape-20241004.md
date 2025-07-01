@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - windows
 ---
 # HTB: [Escape](https://app.hackthebox.com/machines/Escape)

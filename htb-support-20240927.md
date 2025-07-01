@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - windows
 ---
 # HTB: [Support](https://app.hackthebox.com/machines/Support)

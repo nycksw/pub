@@ -1,9 +1,3 @@
----
-tags:
-  - hack
-  - linux
----
-
 # Pivoting with Socat
 
 Socat can be used to forward traffic. In the example below, 10.10.1.1 is the attacking machine running a web server, and the `socat` command will expose that server to all its network segments on port 8080:

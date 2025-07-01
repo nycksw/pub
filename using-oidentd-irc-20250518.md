@@ -1,6 +1,3 @@
----
-tags: [linux]
----
 # Using `oidentd` For IRC
 
 I've never used `ident` for anything besides connecting to EFnet.

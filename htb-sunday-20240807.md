@@ -1,6 +1,6 @@
 ---
 tags:
-  - hack
+    - solaris
 ---
 # HTB: [Sunday](https://app.hackthebox.com/machines/Sunday)
 

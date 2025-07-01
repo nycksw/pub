@@ -1,9 +1,7 @@
 ---
 tags:
-  - hack
   - linux
 ---
-
 # HTB: [Codify](https://app.hackthebox.com/machines/Codify)
 
 > [!tip]- Summary with Spoilers

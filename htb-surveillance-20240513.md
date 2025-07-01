@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Surveillance](https://app.hackthebox.com/machines/Surveillance)

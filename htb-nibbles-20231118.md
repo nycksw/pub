@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Nibbles](https://app.hackthebox.com/machines/Nibbles)

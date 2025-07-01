@@ -1,8 +1,3 @@
----
-tags:
-  - hack
-  - think
----
 # Attackers Think in Graphs
 
 Thinking in terms of lists is natural for administrators who are tasked with defending a network. They take a list of high-value assets and create strategies based on those priorities.

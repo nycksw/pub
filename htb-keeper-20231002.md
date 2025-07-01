@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Keeper](https://app.hackthebox.com/machines/Keeper)

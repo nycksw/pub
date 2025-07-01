@@ -1,7 +1,3 @@
----
-tags:
-  - linux
----
 # Using `tmux`
 
 ## Set a New Working-directory for New Panes while inside a `tmux` Session

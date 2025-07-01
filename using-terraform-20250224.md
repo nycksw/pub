@@ -1,8 +1,3 @@
----
-tags:
-  - linux
----
-
 # Using Terraform
 
 ## First Test

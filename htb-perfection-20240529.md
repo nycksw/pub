@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Perfection](https://app.hackthebox.com/machines/Perfection)

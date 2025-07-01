@@ -1,8 +1,3 @@
----
-tags:
-  - hack
----
-
 # Pivoting with LigoloNG
 
 Setting up the proxy server (`ligolo-proxy`) requires creating a logical device and launching the server with the appropriate options. LigoloNG supports requesting an SSL cert on demand using LetsEncrypt, but in this example I'll use a self-signed certificate.

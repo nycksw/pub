@@ -1,3 +1,7 @@
+---
+tags:
+  - windows
+---
 # HTB: EscapeTwo
 
 > [!tip]- Summary with Spoilers

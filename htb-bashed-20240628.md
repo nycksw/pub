@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Bashed](https://app.hackthebox.com/machines/Bashed)

@@ -1,9 +1,3 @@
----
-tags:
-  - hack
-  - linux
----
-
 # Using `kerbrute` to Enumerate Users
 
 Enumerating valid users in a domain that allows an anonymous bind:

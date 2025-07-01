@@ -1,9 +1,7 @@
 ---
 tags:
-  - hack
   - linux
 ---
-
 # HTB: [Horizontall](https://app.hackthebox.com/machines/Horizontall)
 
 > [!tip]- Summary with Spoilers

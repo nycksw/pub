@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Topology](https://app.hackthebox.com/machines/Topology)

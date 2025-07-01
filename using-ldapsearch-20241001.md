@@ -1,8 +1,3 @@
----
-tags:
-  - linux
-  - hack
----
 # Using `ldapsearch`
 
 ## Getting the `DN`

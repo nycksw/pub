@@ -1,6 +1,3 @@
----
-tags: [think]
----
 # Using Obsidian
 
 Writing notes [is thinking](taking-notes-is-thinking-20230901.md), and having low-friction note-taking tools can be helpful. Obsidian is an elegant piece of software for taking notes. The mission of the product emphasizes user data and not the software that generates it. Having all your notes in a simple and versatile text format helps ensure that in the future your notes will still be useful even if the software isn't maintained, or if the company has gone defunct, or even if you just simply decide to use something else. This philosophy is unique in a world where most software companies seem to be explicitly aiming for user lock-in.

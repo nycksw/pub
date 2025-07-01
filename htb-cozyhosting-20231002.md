@@ -1,9 +1,7 @@
 ---
 tags:
-  - hack
   - linux
 ---
-
 # HTB: [CozyHosting](https://app.hackthebox.com/machines/CozyHosting)
 
 ## Enumeration

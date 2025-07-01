@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - windows
 ---
 # HTB: [Forest](https://app.hackthebox.com/machines/Forest)

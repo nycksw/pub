@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Flight](https://app.hackthebox.com/machines/Flight)

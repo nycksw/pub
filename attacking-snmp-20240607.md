@@ -1,7 +1,3 @@
----
-tags:
-  - hack
----
 # Attacking SNMP
 
 Install and enable the MIBs:

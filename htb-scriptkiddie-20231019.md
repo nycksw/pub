@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [ScriptKiddie](https://app.hackthebox.com/machines/ScriptKiddie)

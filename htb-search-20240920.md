@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - windows
 ---
 # HTB: [Search](https://app.hackthebox.com/machines/Search)

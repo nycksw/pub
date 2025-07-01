@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [WifineticTwo](https://app.hackthebox.com/machines/WifineticTwo)

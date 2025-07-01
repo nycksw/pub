@@ -1,13 +1,6 @@
 ---
 tags:
   - linux
-  - hack
-names:
-  - boardlight
-os: Linux
-flag_user: false
-flag_system: false
-revisit: true
 ---
 # HTB: [BoardLight](https://app.hackthebox.com/machines/BoardLight)
 

@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Pandora](https://app.hackthebox.com/machines/Pandora)

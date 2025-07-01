@@ -1,9 +1,7 @@
 ---
 tags:
-  - hack
   - linux
 ---
-
 # HTB: [Blocky](https://app.hackthebox.com/machines/Blocky)
 
 ## Enumeration

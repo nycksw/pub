@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Precious](https://app.hackthebox.com/machines/Precious)

@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Remote](https://app.hackthebox.com/machines/Remote)

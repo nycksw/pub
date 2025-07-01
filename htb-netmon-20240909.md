@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - windows
 ---
 # HTB: [Netmon](https://app.hackthebox.com/machines/Netmon)

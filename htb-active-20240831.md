@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - windows
 ---
 # HTB: [Active](https://app.hackthebox.com/machines/Active)

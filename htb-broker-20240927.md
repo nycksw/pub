@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Broker](https://app.hackthebox.com/machines/Broker)

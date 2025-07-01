@@ -1,15 +1,13 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Clicker](https://app.hackthebox.com/machines/Clicker)
 
-> [!tip]- Summary with Spoilers  
-> - This machine exposed an unauthenticated NFS share containing a ZIP file with the website’s source code.  
-> - Using the source code, I found an SQL injection vulnerability to elevate my role to `Admin` and gain RCE via a webshell.  
-> - I escalated privileges by abusing a `setuid` binary to access `jack`’s SSH key, then exploited a `sudo` misconfiguration with `PERL5OPT` to gain `root` access.  
-
+> [!tip]- Summary with Spoilers
+> - This machine exposed an unauthenticated NFS share containing a ZIP file with the website’s source code.
+> - Using the source code, I found an SQL injection vulnerability to elevate my role to `Admin` and gain RCE via a webshell.
+> - I escalated privileges by abusing a `setuid` binary to access `jack`’s SSH key, then exploited a `sudo` misconfiguration with `PERL5OPT` to gain `root` access.
 
 ## Services
 

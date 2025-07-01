@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Caption](https://app.hackthebox.com/machines/Caption)

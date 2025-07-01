@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - linux
 ---
 # HTB: [Sightless](https://app.hackthebox.com/machines/Sightless)

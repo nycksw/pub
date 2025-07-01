@@ -1,4 +1,4 @@
-# PortSwigger: [CSRF where Token Validation Depends on Request Method](https://portswigger.net/web-security/csrf/bypassing-token-validation/lab-token-validation-depends-on-request-method)
+# [CSRF: Token Validation Depends on Request Method](https://portswigger.net/web-security/csrf/bypassing-token-validation/lab-token-validation-depends-on-request-method)
 
 This is a valid POST request initiated by a logged-in user:
 

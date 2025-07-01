@@ -1,4 +1,4 @@
-# PortSwigger: [`SameSite=Lax` Bypass via Cookie Refresh](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-strict-bypass-via-cookie-refresh)
+# [`SameSite=Lax` Bypass via Cookie Refresh](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-strict-bypass-via-cookie-refresh)
 
 `SameSite` cookies default to `Lax` unless explicitly set otherwise. However, because this can break SSO authentication flows, it isn't enforced for "top-level" POST requests for the first 120 seconds of the cookie's existence. "Top-level" here means anything that changes the URL in the location bar.
 

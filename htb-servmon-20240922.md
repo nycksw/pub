@@ -1,6 +1,5 @@
 ---
 tags:
-  - hack
   - windows
 ---
 # HTB: [Servmon](https://app.hackthebox.com/machines/Servmon)
